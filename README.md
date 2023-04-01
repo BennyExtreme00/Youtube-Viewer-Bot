@@ -14,7 +14,8 @@ This software allows you to send viewers to your Youtube live stream without the
 ⚠️ it is recommended to use this software on another computer (not the one you are streaming from) or on a computer with a large amount of RAM because it opens a lot of hidden tabs in the background and can send as many viewers as you want to the stream
 
 # Preview 💬
-https://user-images.githubusercontent.com/92625816/223770986-79017b4f-dc14-44b9-bd88-0a70aaeda2ee.mp4
+![image](https://user-images.githubusercontent.com/92625816/229256041-5b73ced4-89fa-4b07-9228-607f78109d7a.png)
+
 
 # 📥 Installation & Usage
 - Python must be installed
