@@ -26,6 +26,8 @@ This software allows you to send viewers to your Youtube live stream without the
 
   https://sites.google.com/chromium.org/driver/?pli=1
   
+  - Open CMD
+  
 ```sh
 git clone https://github.com/Kichi779/Youtube-Viewer-Bot kichiviewerbot
 
